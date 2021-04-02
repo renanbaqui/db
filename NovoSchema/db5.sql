@@ -1,6 +1,8 @@
 -- SQLINES DEMO *** ------------------------------------
 -- Table `avaliacao1.usuarios`
 -- SQLINES DEMO *** ------------------------------------
+CREATE SCHEMA IF NOT EXISTS avaliacao1;
+
 DROP TABLE IF EXISTS avaliacao1.usuarios ;
 
 CREATE TABLE IF NOT EXISTS avaliacao1.usuarios (
