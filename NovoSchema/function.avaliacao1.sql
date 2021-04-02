@@ -1,5 +1,3 @@
--- criei a coluna chamado_tempo na tabela chamados e coloquei valores
--- fazer cursor com duas colunas ao mesmo tempo é problemático
 -- -------------------------------------------------------------------------
 -- Funcao utilizando cursor que soma os tempos de duracao de chamados
 -- -------------------------------------------------------------------------
