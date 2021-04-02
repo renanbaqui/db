@@ -234,7 +234,7 @@ INSERT INTO avaliacao1.chamados (abertoPor,fechadoPor, designacao, chamado, nive
 INSERT INTO avaliacao1.chamados (abertoPor,fechadoPor, designacao, chamado, nivelEscalonamento, status, chamado_tempo, iniciochamado, finalchamado) VALUES ('582049501','915691883','RJOSPOCPL032028','2020100371581',0,0,31,'2020-06-12 05:00:00','2020-06-12 05:31:00');
 INSERT INTO avaliacao1.chamados (abertoPor,fechadoPor, designacao, chamado, nivelEscalonamento, status, chamado_tempo, iniciochamado, finalchamado) VALUES ('915691883','999999999','RJOSPOCPL077042','2020100371586',0,1,19,'2020-07-04 00:30:00','2020-07-04 00:49:00');
 INSERT INTO avaliacao1.chamados (abertoPor,fechadoPor, designacao, chamado, nivelEscalonamento, status, chamado_tempo, iniciochamado, finalchamado) VALUES ('582049501','582049501','SPORJOCPL140510','2020100372549',0,1,14,'2020-07-15 09:00:00','2020-07-15 09:14:00');
-INSERT INTO avaliacao1.chamados (abertoPor,fechadoPor, designacao, chamado, nivelEscalonamento, status, chamado_tempo, iniciochamado, finalchamado) VALUES ('915691883','915691883','RJORCECPL143714','2020100372555',0,1,1500,'2020-08-21 17:00:00','2020-08-21 18:00:00');
+INSERT INTO avaliacao1.chamados (abertoPor,fechadoPor, designacao, chamado, nivelEscalonamento, status, chamado_tempo, iniciochamado, finalchamado) VALUES ('915691883','915691883','RJORCECPL143714','2020100372555',0,1,1500,'2020-08-21 17:00:00','2020-08-22 18:00:00');
 INSERT INTO avaliacao1.chamados (abertoPor,fechadoPor, designacao, chamado, nivelEscalonamento, status, chamado_tempo, iniciochamado, finalchamado) VALUES ('999999999','582049501','RJORCECPL143714','2020100372555',0,1,720,'2020-09-11 09:00:00','2020-09-11 21:00:00');      
           
          
