@@ -231,4 +231,5 @@ INSERT INTO avaliacao1.chamados (abertoPor,fechadoPor, designacao, chamado, nive
 INSERT INTO avaliacao1.chamados (abertoPor,fechadoPor, designacao, chamado, nivelEscalonamento, status, chamado_tempo) VALUES ('999999999','999999999','SPORJOCPL140511','2219100371555',0,0,45);
 INSERT INTO avaliacao1.chamados (abertoPor,fechadoPor, designacao, chamado, nivelEscalonamento, status, chamado_tempo) VALUES ('582049501','915691883','RJOSPOCPL032028','2019100371586',0,0,31);
 INSERT INTO avaliacao1.chamados (abertoPor,fechadoPor, designacao, chamado, nivelEscalonamento, status, chamado_tempo) VALUES ('915691883','999999999','RJOSPOCPL077042',' 2019100371586 (segundo link) ',0,0,19);
-INSERT INTO avaliacao1.chamados (abertoPor, designacao, chamado, nivelEscalonamento, status, chamado_tempo) VALUES ('999999999','SPORJOCPL140510','2019100372549',0,0,14);   
+INSERT INTO avaliacao1.chamados (abertoPor, designacao, chamado, nivelEscalonamento, status, chamado_tempo) VALUES ('999999999','SPORJOCPL140510','2019100372549',0,0,14);
+INSERT INTO avaliacao1.chamados (abertoPor,fechadoPor, designacao, finalchamado, chamado, nivelEscalonamento, status, chamado_tempo) VALUES ('915691883','915691883','RJORCECPL143714','2021-04-09 00:00:00',' 2019100371066.2',0,0,56);          
