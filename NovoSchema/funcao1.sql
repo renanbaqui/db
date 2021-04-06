@@ -10,4 +10,4 @@ END;
 $$ LANGUAGE plpgsql;
 
 
-select chamado, calcula_tempo(finalchamado, iniciochamado) from avaliacao1.chamados;
+select chamado, avaliacao1.calcula_tempo(finalchamado, iniciochamado) from avaliacao1.chamados;
