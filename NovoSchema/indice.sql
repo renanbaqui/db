@@ -10,11 +10,11 @@ CREATE INDEX indiceChamados on avaliacao1.chamados USING hash (abertoPor)
 -- Visão para verificação e testes do índice
 -- -------------------------------------------------------------------------
 
-CREATE OR REPLACE VIEW visao
+CREATE OR REPLACE VIEW avaliacao1.visao
 AS
 (
 SELECT abertoPor, indice, designacao, iniciochamado FROM avaliacao1.chamados
 	WHERE (abertoPor = '582049501')
 ORDER BY designacao
 );
-SELECT * FROM visao;
+SELECT * FROM avaliacao1.visao;
